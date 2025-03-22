@@ -5,7 +5,7 @@ I am starting the last course in a unified treatment of Calculus at a local comm
 The comments in the code will contain the relevant Calculus concepts for easy reference and clarity. But please use other resources to learn the underlying Calculus concepts fully. 
 
 ## Notation and Style
-Solutions are given in a way that makes sense to me and will closely follow the textbook and solution manual. Theorems, collolaries, formulas, etc. will consider textbook notation and style above all else.
+Solutions are given in a way that makes sense to me and will closely follow the textbook and solution manual. However, theorems, collolaries, formulas, etc. will use TI-BASIC and Python in the comments.
 
 ## Citations
 Swokowski, Earl W. *Calculus: The Classic Edition*. 7th ed., Brooks/Cole, 2012.
